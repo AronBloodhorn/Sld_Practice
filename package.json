@@ -1,8 +1,8 @@
 {
-  "name": "first-day",
+  "name": "Sld_Practice",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000-\u0000F\u0000i\u0000r\u0000s\u0000t\u0000P\u0000a\u0000r\u0000t\u0000\r\u0000 \u0000",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "webpack-dev-server --mode development",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainscer/Practice-FirstPart.git"
+    "url": "git+https://github.com/AronBloodhorn/Sld_Practice.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rainscer/Practice-FirstPart/issues"
+    "url": "https://github.com/AronBloodhorn/Sld_Practice/issues"
   },
-  "homepage": "https://github.com/rainscer/Practice-FirstPart#readme",
+  "homepage": "https://github.com/AronBloodhorn/Sld_Practice#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "currency-codes": "^2.1.0",
