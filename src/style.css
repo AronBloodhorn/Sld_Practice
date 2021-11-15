@@ -1,7 +1,10 @@
+*{margin: 0;
+  padding: 0;
+}
 .newPost{
     margin: 0 auto;
     padding: 50px 50px;
-    background-color: #434343;
+    background-color: #50c5e2;
 }
 .newPost select{
     width: 100%;
@@ -9,9 +12,9 @@
     font-size: 20px;
     padding: 10px 20px;
     margin-top: 20px;
-    color: grey;
+    color: rgb(0, 0, 0);
 }
 .newPost h1{
-    color: rgb(245, 101, 101);
-    font-style: italic;
+    color: rgb(221, 241, 40);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
